@@ -1,0 +1,944 @@
+[00:01:29] [User Authenticator #2/INFO]: UUID of player RKa is d5fd6206-42d1-3efa-8478-e777cc14279e
+[00:01:30] [Server thread/INFO]: RKa joined the game
+[00:01:30] [Server thread/INFO]: RKa[/127.217.59.124:53475] logged in with entity id 2207 at ([world]200.92741819365148, 37.0, 664.0112151350615)
+[00:01:43] [Async Chat Thread - #8/INFO]: [Not Secure] <RKa> interne de temuu
+[00:02:10] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:02:10] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:02:11] [Async Chat Thread - #8/INFO]: [Not Secure] <RKa> bu
+[00:02:34] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:02:34] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:03:04] [Async Chat Thread - #8/INFO]: [Not Secure] <RKa> t
+[00:03:10] [Async Chat Thread - #8/INFO]: [Not Secure] <RKa> zTeiszch ?
+[00:04:31] [Server thread/INFO]: RKa issued server command: /inv zTeiszch
+[00:07:11] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:07:11] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:07:26] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:07:26] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:07:31] [Server thread/INFO]: RKa issued server command: /tp zTeiszch
+[00:07:31] [Server thread/INFO]: [RKa: Teleported RKa to [Realm of Dxmonic Players] zTeiszch]
+[00:07:47] [Server thread/INFO]: RKa issued server command: /tellraw a
+[00:07:58] [Server thread/INFO]: RKa issued server command: /tellraw zTeiszch UWU
+[00:08:01] [Async Chat Thread - #10/INFO]: [Not Secure] <RKa> asd
+[00:08:09] [Async Chat Thread - #10/INFO]: [Not Secure] <RKa> xautral entra :C
+[00:08:25] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:08:25] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:09:54] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> ae
+[00:09:55] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> volvi
+[00:09:59] [Server thread/INFO]: RKa issued server command: /tp zTeiszch
+[00:09:59] [Server thread/INFO]: [RKa: Teleported RKa to [Realm of Dxmonic Players] zTeiszch]
+[00:10:04] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> q
+[00:10:07] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> este we k
+[00:10:09] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:10:09] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:10:10] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> loco
+[00:10:11] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> cheater
+[00:10:19] [Async Chat Thread - #12/INFO]: [Not Secure] <RKa> :v
+[00:10:19] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> :v
+[00:10:25] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:33] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:10:33] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:10:37] [Async Chat Thread - #12/INFO]: [Not Secure] <RKa> XD
+[00:10:44] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:45] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:45] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:46] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:46] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:47] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> vas report
+[00:10:59] [User Authenticator #3/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[00:11:01] [Async Chat Thread - #12/INFO]: [Not Secure] <RKa> por ?
+[00:11:01] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[00:11:01] [Server thread/INFO]: Vakenuu[/127.235.177.208:54233] logged in with entity id 3061 at ([world]665.6042207008994, 49.0, -2450.0083112962993)
+[00:11:13] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> nmms te tepeas a mi como si nada wn
+[00:11:21] [Async Chat Thread - #12/INFO]: [Not Secure] <RKa> soy mod :c
+[00:11:24] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> ah
+[00:11:26] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> mal ahi
+[00:11:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> hola
+[00:11:33] [Async Chat Thread - #12/INFO]: [Not Secure] <RKa> hola
+[00:11:35] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> ola randy
+[00:11:37] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:11:37] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:11:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> e?
+[00:11:46] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> y si
+[00:11:49] [Server thread/INFO]: RKa issued server command: /tp Vakenuu
+[00:11:49] [Server thread/INFO]: [RKa: Teleported RKa to [Dominion Titan] Vakenuu]
+[00:11:50] [Async Chat Thread - #13/INFO]: [Not Secure] <zTeiszch> no te conozco
+[00:11:51] [Async Chat Thread - #12/INFO]: [Not Secure] <zTeiszch> :v
+[00:11:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> jajaja
+[00:12:12] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:12:12] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:12:16] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:12:16] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:12:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> que
+[00:12:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> ey entro alguien
+[00:12:36] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:12:36] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:12:39] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:12:39] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:12:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> quien eres ?
+[00:12:56] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:12:56] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:12:59] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:12:59] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:13:07] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:13:07] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:13:14] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:13:14] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:13:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Vakenuu> no lei el nombre
+[00:13:24] [Server thread/INFO]: RKa issued server command: /msg Vakenuu soy un espititu
+[00:13:41] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:13:41] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:13:50] [Server thread/INFO]: RKa issued server command: /inv Vakenuu
+[00:14:23] [Server thread/INFO]: RKa issued server command: /gamemode spectator
+[00:14:23] [Server thread/INFO]: [RKa: Set own game mode to Spectator Mode]
+[00:14:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Vakenuu> aaah eres mod
+[00:14:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Vakenuu> regala algo jaja
+[00:14:46] [Server thread/INFO]: RKa issued server command: /msg Vakenuu no :C
+[00:15:02] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> :v
+[00:15:09] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> q rico minas xd
+[00:15:35] [Server thread/INFO]: RKa issued server command: /tp zTeiszch
+[00:15:35] [Server thread/INFO]: [RKa: Teleported RKa to [Realm of Dxmonic Players] zTeiszch]
+[00:15:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+l<--[HERE]
+[00:15:52] [Server thread/INFO]: [Not Secure] [Server] ano viendo una serieist
+[00:15:55] [Server thread/INFO]: There are 3 of a max of 20 players online: [Realm of Dxmonic Players] zTeiszch, RKa, [Dominion Titan] Vakenuu
+[00:16:32] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> cual
+[00:16:42] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> NECESITO ARENAAAAAAA
+[00:16:47] [Server thread/INFO]: [Not Secure] [Server] smiling friends
+[00:17:07] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> NECESITO ARENAAAAAAA
+[00:17:07] [Server thread/INFO]: RKa issued server command: /msg zTeiszch andas al lado de un rio XD
+[00:17:08] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> NECESITO ARENAAAAAAA
+[00:17:14] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> a
+[00:17:17] [Server thread/INFO]: RKa issued server command: /msg zTeiszch andas al lado de un rio XD usa tus 2 neuronas
+[00:17:50] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> no hay we
+[00:17:51] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> no hay we
+[00:17:52] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> no hay we
+[00:17:56] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> ah si
+[00:18:04] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> si hay we
+[00:18:19] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> namamaes
+[00:18:25] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> se me rompio la pala
+[00:18:33] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> epico
+[00:18:41] [Server thread/INFO]: Vakenuu lost connection: Disconnected
+[00:18:41] [Server thread/INFO]: [Dominion Titan] Vakenuu left the game
+[00:18:47] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> Me perdi
+[00:19:06] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> atras pe
+[00:19:09] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> no
+[00:19:21] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> epico
+[00:19:32] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> we l
+[00:19:37] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> los aldeanos no quieren tener sexo
+[00:19:46] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> ira
+[00:20:12] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> vez?
+[00:20:30] [Server thread/INFO]: RKa issued server command: /gamemode creative
+[00:20:30] [Server thread/INFO]: [RKa: Set own game mode to Creative Mode]
+[00:20:38] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> es que no les das comida
+[00:20:45] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> viste o nO?
+[00:20:48] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> mira
+[00:21:02] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> mira
+[00:21:16] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> no comen we
+[00:21:31] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> f bro
+[00:21:36] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> a buscar ma
+[00:21:43] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> na bro
+[00:21:45] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> q lo arreglen
+[00:21:48] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> njdas
+[00:22:05] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> jsjs
+[00:22:16] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> aver
+[00:22:22] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> MIRA DAles comida
+[00:22:30] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> el Xau lo intento tmbn
+[00:22:31] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> ;c
+[00:22:58] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> bro
+[00:23:00] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> dime
+[00:23:00] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> si comen
+[00:23:07] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> no we
+[00:23:08] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> intenta
+[00:23:10] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> XD
+[00:23:12] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> de donse salia
+[00:23:31] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> NOOoOo
+[00:23:36] [Server thread/INFO]: Villager Villager['Weaponsmith'/5652, uuid='3f9dba9c-6d14-481c-8901-a237e68c00d1', l='ServerLevel[world]', x=200.35, y=37.00, z=654.61, cpos=[12, 40], tl=1048, v=true] died, message: 'Weaponsmith was slain by RKa'
+[00:23:38] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> WE
+[00:23:39] [Server thread/INFO]: Villager Villager['Fletcher'/5654, uuid='de8e5752-bbf9-4434-9def-a94aa69a27ab', l='ServerLevel[world]', x=198.81, y=37.00, z=660.13, cpos=[12, 41], tl=1108, v=true] died, message: 'Fletcher was slain by RKa'
+[00:23:40] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> toncs
+[00:23:44] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> son los mios lo k no comen
+[00:23:45] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> f
+[00:23:50] [Async Chat Thread - #16/INFO]: [Not Secure] <RKa> te los desbugeo ?
+[00:23:53] [Async Chat Thread - #16/INFO]: [Not Secure] <zTeiszch> sisisi
+[00:23:55] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> pls
+[00:23:59] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> necesito q follen
+[00:24:04] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> pero perderian los encantamientos
+[00:24:07] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> ¡
+[00:24:19] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> dame 2
+[00:24:22] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> osea
+[00:24:23] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> dame
+[00:24:25] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> 1 chikito
+[00:24:26] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> digo
+[00:24:27] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> 2
+[00:24:31] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> y k sean los hijos
+[00:24:35] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> y esos ya los pongo a follar
+[00:24:44] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> sacrificas 2 de estos por 2 ?
+[00:24:55] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> se
+[00:24:57] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> botin
+[00:25:00] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> y aspecto igneo
+[00:25:02] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> deja repa
+[00:25:13] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> quita sus mesas
+[00:25:35] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> no se les quitara el trabajo
+[00:25:35] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> ultima advertencia andas seguro ?
+[00:25:37] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> si
+[00:25:39] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> :D
+[00:25:43] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> deja el mending
+[00:25:45] [Async Chat Thread - #15/INFO]: [Not Secure] <RKa> deja pruebo si comen
+[00:25:49] [Async Chat Thread - #15/INFO]: [Not Secure] <zTeiszch> ok
+[00:25:55] [Server thread/INFO]: RKa issued server command: /clear
+[00:25:55] [Server thread/INFO]: [RKa: Removed 69 item(s) from player RKa]
+[00:26:04] [Server thread/INFO]: RKa issued server command: /effect clear
+[00:26:04] [Server thread/INFO]: [RKa: Removed every effect from RKa]
+[00:27:16] [Async Chat Thread - #19/INFO]: [Not Secure] <RKa> primero deja le pido premiso a xautral
+[00:27:20] [Async Chat Thread - #19/INFO]: [Not Secure] <zTeiszch> ok
+[00:27:50] [Async Chat Thread - #19/INFO]: [Not Secure] <RKa> dijo que si
+[00:27:54] [Async Chat Thread - #19/INFO]: [Not Secure] <zTeiszch> NOoOoOoo
+[00:27:57] [Async Chat Thread - #19/INFO]: [Not Secure] <zTeiszch> MIS COFRES TIO
+[00:27:57] [Async Chat Thread - #19/INFO]: [Not Secure] <zTeiszch> MIS COFRES TIO
+[00:27:57] [Async Chat Thread - #19/INFO]: [Not Secure] <zTeiszch> MIS COFRES TIO
+[00:28:01] [Async Chat Thread - #19/INFO]: [Not Secure] <RKa> ajska
+[00:28:05] [Async Chat Thread - #19/INFO]: [Not Secure] <RKa> epic
+[00:28:10] [Async Chat Thread - #18/INFO]: [Not Secure] <zTeiszch> maldito crepeer
+[00:28:18] [Server thread/INFO]: Villager Villager['Librarian'/1129, uuid='5ce69400-bf2e-48bd-9c98-2675b8ff8acb', l='ServerLevel[world]', x=199.70, y=38.00, z=642.62, cpos=[12, 40], tl=40682, v=true] died, message: 'Librarian was slain by RKa'
+[00:28:32] [Server thread/INFO]: Villager Villager['Librarian'/1040, uuid='64f6bd44-0d2e-4463-bf26-c525cf67609c', l='ServerLevel[world]', x=202.63, y=38.00, z=639.74, cpos=[12, 39], tl=41145, v=true] died, message: 'Librarian was slain by RKa'
+[00:28:44] [Async Chat Thread - #18/INFO]: [Not Secure] <zTeiszch> ia?
+[00:28:51] [Async Chat Thread - #18/INFO]: [Not Secure] <zTeiszch> grx
+[00:29:05] [Async Chat Thread - #18/INFO]: [Not Secure] <zTeiszch> pjuta
+[00:30:11] [Async Chat Thread - #21/INFO]: [Not Secure] <zTeiszch> duerme
+[00:30:12] [Async Chat Thread - #21/INFO]: [Not Secure] <zTeiszch> :v
+[00:30:19] [Server thread/INFO]: RKa has made the advancement [Sweet Dreams]
+[00:30:26] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> grx
+[00:30:57] [Async Chat Thread - #20/INFO]: [Not Secure] <RKa> bueno bye
+[00:30:57] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> ahora follen perra
+[00:30:59] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> ahora follen perras
+[00:31:37] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> tengan sexomrd
+[00:31:42] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> esooo
+[00:31:44] [Async Chat Thread - #20/INFO]: [Not Secure] <zTeiszch> un ninio
+[00:31:47] [Server thread/INFO]: RKa lost connection: Disconnected
+[00:31:47] [Server thread/INFO]: RKa left the game
+[00:34:56] [User Authenticator #4/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[00:35:06] [Server thread/INFO]: Xautral joined the game
+[00:35:06] [Server thread/INFO]: Xautral[/127.48.6.202:50503] logged in with entity id 7296 at ([world_nether]133.5, 81.0, 6.9674366404498755)
+[00:35:09] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> ola
+[00:35:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> ups server equivocado
+[00:35:19] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> a
+[00:35:19] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch
+[00:35:19] [Server thread/INFO]: [Xautral: Teleported Xautral to [Realm of Dxmonic Players] zTeiszch]
+[00:35:28] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> na mentira
+[00:35:28] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> xau
+[00:35:35] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> recompensas por actividad
+[00:35:36] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> :c
+[00:35:37] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> dame esme
+[00:35:38] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> :c
+[00:35:39] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[00:35:39] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> cual
+[00:35:43] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> a simon
+[00:36:15] [Async Chat Thread - #22/INFO]: [Not Secure] <zTeiszch> k
+[00:37:27] [Async Chat Thread - #24/INFO]: [Not Secure] <Xautral> callate puto baboso
+[00:37:31] [Async Chat Thread - #24/INFO]: [Not Secure] <zTeiszch> :v
+[00:38:20] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 minecraft:emerald_ore replace air
+[00:38:20] [Server thread/INFO]: [Xautral: Successfully filled 186 block(s)]
+[00:38:22] [Async Chat Thread - #24/INFO]: [Not Secure] <zTeiszch> aklmrd
+[00:38:30] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:wolf] minecraft:regeneration infinite 2 true
+[00:38:30] [Server thread/INFO]: [Xautral: Applied effect Regeneration to 8 targets]
+[00:38:32] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[00:38:41] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:wolf] Xautral
+[00:38:41] [Server thread/INFO]: [Xautral: Teleported Wolf to Xautral]
+[00:38:51] [Server thread/INFO]: Xautral issued server command: /effect clear @e[type=minecraft:wolf]
+[00:38:51] [Server thread/INFO]: [Xautral: Removed every effect from 9 targets]
+[00:39:02] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 minecraft:emerald_ore replace air
+[00:39:02] [Server thread/INFO]: [Xautral: Successfully filled 75 block(s)]
+[00:39:06] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 minecraft:emerald_ore replace air
+[00:39:06] [Server thread/INFO]: [Xautral: Successfully filled 139 block(s)]
+[00:39:10] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 minecraft:emerald_ore replace air
+[00:39:10] [Server thread/INFO]: [Xautral: Successfully filled 144 block(s)]
+[00:39:22] [Async Chat Thread - #26/INFO]: [Not Secure] <zTeiszch> almrd
+[00:39:22] [Async Chat Thread - #26/INFO]: [Not Secure] <zTeiszch> almrd
+[00:39:23] [Async Chat Thread - #26/INFO]: [Not Secure] <zTeiszch> almrd
+[00:39:23] [Async Chat Thread - #26/INFO]: [Not Secure] <zTeiszch> almrd
+[00:39:25] [Server thread/INFO]: Xautral issued server command: /effect give zTeiszch minecraft:haste 255 2 false
+[00:39:25] [Server thread/INFO]: [Xautral: Applied effect Haste to [Realm of Dxmonic Players] zTeiszch]
+[00:39:34] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> ponle fortuna
+[00:39:34] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> :v
+[00:39:35] [Async Chat Thread - #26/INFO]: [Not Secure] <zTeiszch> lo k logre minar o q
+[00:39:39] [Server thread/INFO]: Xautral issued server command: /inv zTeiszch
+[00:39:39] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> no tengo we
+[00:40:02] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> e we
+[00:40:05] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> k
+[00:40:08] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> se burlaron de ti we
+[00:40:10] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> qn?
+[00:40:14] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> si
+[00:40:19] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> QUE QUIEEEN
+[00:40:22] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> ok
+[00:40:31] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> Khiaby balon de oro
+[00:40:39] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> Adiós !
+[00:40:40] [Server thread/INFO]: Xautral lost connection: Disconnected
+[00:40:40] [Server thread/INFO]: Xautral left the game
+[00:40:42] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[00:40:42] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> bie
+[00:40:43] [Server thread/INFO]: Xautral joined the game
+[00:40:43] [Server thread/INFO]: Xautral[/127.48.6.202:42447] logged in with entity id 8392 at ([world]194.4922564347859, 37.47386896815523, 660.0495026402996)
+[00:40:49] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> Hola ?
+[00:40:53] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> jumpscare
+[00:40:56] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> k
+[00:41:03] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeiszch> xautral"
+[00:41:07] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeiszch> xautral"{
+[00:41:07] [Netty Epoll Server IO #0/INFO]: Disconnecting Xautral for sending keepalive response (3515141) out-of-order!
+[00:41:07] [Server thread/INFO]: Xautral lost connection: Timed out
+[00:41:07] [Server thread/INFO]: Xautral left the game
+[00:41:13] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[00:41:14] [Server thread/INFO]: Xautral joined the game
+[00:41:14] [Server thread/INFO]: Xautral[/127.48.6.202:39303] logged in with entity id 8543 at ([world]190.7215501161452, 37.47386896815523, 636.5994537186938)
+[00:41:16] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeiszch> xautral"]
+[00:41:17] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeiszch> xautral"}
+[00:41:20] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> qie
+[00:41:21] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> q mrd
+[00:41:26] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> este we
+[00:41:28] [Server thread/INFO]: Xautral issued server command: /execute at zTeiszch run msg Xautral dame op wey
+[00:41:41] [Server thread/INFO]: Xautral issued server command: /execute as zTeiszch run msg Xautral dame op wey
+[00:41:44] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> no w
+[00:41:50] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> hasta crees pendejo
+[00:41:53] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> si wey
+[00:41:56] [Server thread/INFO]: Xautral issued server command: /execute as zTeiszch run msg Xautral te da pene w
+[00:42:02] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> bueno
+[00:42:10] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> si
+[00:42:12] [Server thread/INFO]: Xautral issued server command: /kick zTeiszch You are banned from this server
+[00:42:12] [Server thread/INFO]: zTeiszch lost connection: You are banned from this server
+[00:42:12] [Server thread/INFO]: zTeiszch left the game
+[00:42:12] [Server thread/INFO]: [Xautral: Kicked [Realm of Dxmonic Players] zTeiszch: You are banned from this server]
+[00:42:15] [User Authenticator #6/INFO]: UUID of player zTeiszch is 24a886a3-8fc1-3032-9fbc-872c86ec5316
+[00:42:17] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch joined the game
+[00:42:17] [Server thread/INFO]: zTeiszch[/127.204.34.115:42081] logged in with entity id 8857 at ([world]195.53290922621423, 37.0, 654.3631598890236)
+[00:42:19] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> XD
+[00:42:31] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> todo sea por el señor fiesta
+[00:42:39] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> referencia
+[00:42:44] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> vito007
+[00:42:47] [Server thread/INFO]: Xautral issued server command: /effect give zTeiszch minecraft:haste 255 4 false
+[00:42:47] [Server thread/INFO]: [Xautral: Applied effect Haste to [Realm of Dxmonic Players] zTeiszch]
+[00:42:55] [Server thread/INFO]: Xautral issued server command: /effect give zTeiszch minecraft:haste 255 6 false
+[00:42:55] [Server thread/INFO]: [Xautral: Applied effect Haste to [Realm of Dxmonic Players] zTeiszch]
+[00:42:56] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> dame fortuna we
+[00:42:58] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> oOoOOo
+[00:43:03] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> SIXS EVEN
+[00:43:08] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> Six One
+[00:43:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> NEGATIVE SIXTY SEVEN
+[00:43:37] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> aguanta
+[00:43:40] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> tengo uno mejor
+[00:43:42] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> OK
+[00:43:44] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> Euler NUMBER
+[00:43:48] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> xd
+[00:43:51] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> si existe
+[00:43:54] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> es el numero mas grande del mund
+[00:44:19] [Async Chat Thread - #27/INFO]: [Not Secure] <zTeiszch> dame efi 50 vro
+[00:44:42] [Server thread/WARN]: zTeiszch moved wrongly!
+[00:54:56] [User Authenticator #7/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[00:55:00] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[00:55:00] [Server thread/INFO]: Vakenuu[/127.235.177.208:55595] logged in with entity id 10784 at ([world]662.3000000119209, 49.0, -2449.993429780721)
+[00:58:45] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:58:46] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:05] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:08] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:11] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:12] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:13] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:13] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:14] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:14] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:15] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:15] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:15] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:16] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:16] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:17] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:17] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:17] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[00:59:19] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[00:59:19] [Async Chat Thread - #28/INFO]: [Not Secure] <zTeiszch> duerme pls
+[01:00:45] [Netty Epoll Server IO #0/INFO]: Disconnecting Vakenuu for sending keepalive response (4693392) out-of-order!
+[01:00:45] [Server thread/INFO]: Vakenuu lost connection: Timed out
+[01:00:45] [Server thread/INFO]: Vakenuu left the game
+[01:08:32] [User Authenticator #8/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[01:08:34] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[01:08:34] [Server thread/INFO]: Vakenuu[/127.235.177.208:60543] logged in with entity id 13276 at ([world]683.6999999880791, 49.0, -2454.3989529434416)
+[01:08:42] [Async Chat Thread - #30/INFO]: [Not Secure] <zTeiszch> encontr trial chambers
+[01:08:43] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> OwO
+[01:09:31] [Server thread/INFO]: Xautral has made the advancement [Minecraft: Trial(s) Edition]
+[01:09:36] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> nmms
+[01:09:47] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> no traje gaps
+[01:10:32] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> :v
+[01:10:32] [Server thread/INFO]: Vakenuu lost connection: Login timed out!
+[01:10:32] [Server thread/INFO]: Vakenuu left the game
+[01:10:47] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> opa
+[01:10:50] [Async Chat Thread - #31/INFO]: [Not Secure] <zTeiszch> wind charges
+[01:13:26] [User Authenticator #9/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[01:13:28] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[01:13:28] [Server thread/INFO]: Vakenuu[/127.235.177.208:33199] logged in with entity id 14490 at ([world]683.6999999880791, 49.0, -2454.3989529434416)
+[01:13:55] [Server thread/INFO]: Villager Villager['Villager'/14541, uuid='2b7408d8-0312-4c02-b5ac-07205485ae26', l='ServerLevel[world]', x=586.63, y=81.02, z=-2414.70, cpos=[36, -151], tl=506, v=true] died, message: 'Villager was slain by Zombie'
+[01:20:20] [Async Chat Thread - #32/INFO]: [Not Secure] <Vakenuu> hola
+[01:20:22] [Async Chat Thread - #32/INFO]: [Not Secure] <zTeiszch> ola
+[01:20:30] [Async Chat Thread - #32/INFO]: [Not Secure] <Vakenuu> algun admin ?
+[01:20:30] [Async Chat Thread - #32/INFO]: [Not Secure] <zTeiszch> toy en trial chambers si no respondo rapido
+[01:20:31] [Async Chat Thread - #32/INFO]: [Not Secure] <zTeiszch> :V
+[01:20:35] [Async Chat Thread - #32/INFO]: [Not Secure] <zTeiszch> Esta xau
+[01:20:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> xau
+[01:20:40] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> que onda papu
+[01:20:43] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> que perro te ves papu
+[01:20:45] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> awwwr
+[01:20:47] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> awwr
+[01:20:50] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> hola femboy
+[01:20:53] [Server thread/INFO]: Xautral issued server command: /summon minecraft:bogged
+[01:20:53] [Server thread/INFO]: [Xautral: Summoned new Bogged]
+[01:20:58] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> sabes como conseguir gente rapido que jugue
+[01:21:01] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> si
+[01:21:03] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> tengo una idea
+[01:21:05] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> haber
+[01:21:07] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> lanzala
+[01:21:10] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> femboy :Vvv
+[01:21:22] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> hacer directos en tiktok o videos
+[01:21:28] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> chinga no wey
+[01:21:32] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> el pedo es:
+[01:21:35] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> se mete malintencionada
+[01:21:37] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> no hay suficientes admin
+[01:21:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> no hay suficientes admins
+[01:21:44] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> pero es mas facil live enntiktok
+[01:21:45] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> no puedo estar 24/7
+[01:21:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> si wey
+[01:21:52] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> pero el ped
+[01:21:55] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> se van a unir mucha gente
+[01:21:55] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> aparte de eso
+[01:21:57] [Server thread/INFO]: [Dominion Titan] Vakenuu was slain by Iron Golem
+[01:21:59] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> es...
+[01:21:59] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> si
+[01:22:00] [Async Chat Thread - #33/INFO]: [Not Secure] <zTeiszch> XD
+[01:22:02] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> tienes razon
+[01:22:05] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> pero no puedo yo solo
+[01:22:13] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> lo intentaré :V
+[01:22:22] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> pero tambien pongan de su parte
+[01:22:26] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> pasa tiktok en dc
+[01:22:35] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> como?
+[01:22:36] [Async Chat Thread - #33/INFO]: [Not Secure] <zTeiszch> k kieres q hagamos
+[01:22:37] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[01:22:37] [Server thread/INFO]: [Xautral: Added Xautral to the whitelist]
+[01:22:37] [Server thread/INFO]: [Xautral: Added zTeiszch to the whitelist]
+[01:22:37] [Server thread/INFO]: [Xautral: Added Vakenuu to the whitelist]
+[01:22:46] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> pues apoyarme en la idea del femboy
+[01:22:51] [Async Chat Thread - #33/INFO]: [Not Secure] <zTeiszch> a po si
+[01:22:52] [Async Chat Thread - #33/INFO]: [Not Secure] <zTeiszch> obvio
+[01:22:55] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> siss
+[01:23:21] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> si haces lo que yo digo se unira gente que jugara en directo
+[01:23:31] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> chinga wey
+[01:23:35] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> tambien ayuda :v
+[01:23:36] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> aparte
+[01:23:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> te donaran aparte un dinerito jajaj
+[01:23:40] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> ut crees que no lo he intentado?
+[01:23:46] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> necesitas cierta cantidad de seguidores
+[01:23:53] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> 50
+[01:24:03] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> vete a ka chingada
+[01:24:04] [Async Chat Thread - #33/INFO]: [Not Secure] <Vakenuu> tengo un canal de youutube yo jaja
+[01:24:05] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> 1500
+[01:24:12] [Async Chat Thread - #33/INFO]: [Not Secure] <zTeiszch> yo tengo una con 1200
+[01:25:33] [Async Chat Thread - #34/INFO]: [Not Secure] <zTeiszch> trial chambers de mrd
+[01:25:36] [Async Chat Thread - #34/INFO]: [Not Secure] <zTeiszch> no tuve suerte
+[01:26:18] [Server thread/INFO]: Vakenuu lost connection: Timed out
+[01:26:18] [Server thread/INFO]: [Dominion Titan] Vakenuu left the game
+[01:27:19] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> a pero para hacerse pasar por mujer si esta bueno
+[01:27:24] [Async Chat Thread - #36/INFO]: [Not Secure] <zTeiszch> q
+[01:27:59] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> el wey se delató por accidente
+[01:28:07] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> su nombre de DC y de MC son de mujer
+[01:28:10] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> se llama xxxvaleria
+[01:28:12] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> ._.
+[01:28:21] [Async Chat Thread - #36/INFO]: [Not Secure] <zTeiszch> XDDD
+[01:28:28] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> ya decía yo que referirte a ti como hombre por 4 veces era algo raro
+[01:29:17] [User Authenticator #10/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[01:29:19] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[01:29:19] [Server thread/INFO]: Vakenuu[/127.235.177.208:37665] logged in with entity id 18271 at ([world]661.934740329981, 49.0, -2451.878630010756)
+[01:29:23] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> va
+[01:29:24] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[01:29:27] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> eri onvre
+[01:29:28] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> a pero para hacerse pasar por mujer si esta bueno
+[01:29:29] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> o mujel
+[01:29:33] [Async Chat Thread - #37/INFO]: [Not Secure] <Vakenuu> que
+[01:29:36] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> eri onvre
+[01:29:37] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> o mujel
+[01:29:37] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> eri onvre
+[01:29:38] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> o mujel
+[01:29:38] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> un femboi
+[01:29:45] [Async Chat Thread - #37/INFO]: [Not Secure] <Vakenuu> hombre rey
+[01:29:52] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> valeria :skull: :pray:
+[01:29:54] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> y en dc te llamas xxxvaleria..
+[01:29:59] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> :pray:
+[01:30:07] [Async Chat Thread - #37/INFO]: [Not Secure] <Vakenuu> xxxxvalen me llamo
+[01:30:07] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> chingadamadrewey
+[01:30:12] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> informate bien zTeiszch
+[01:30:15] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> ya te cachamos
+[01:30:20] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> :v
+[01:30:21] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> :V
+[01:30:22] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> q
+[01:30:24] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> rra
+[01:30:26] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> callate
+[01:30:31] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> este we
+[01:30:40] [User Authenticator #11/INFO]: UUID of player RKa is d5fd6206-42d1-3efa-8478-e777cc14279e
+[01:30:41] [Server thread/INFO]: RKa joined the game
+[01:30:41] [Server thread/INFO]: RKa[/127.217.59.124:45349] logged in with entity id 18948 at ([world]184.21518791636814, 36.9375, 662.524853949017)
+[01:31:07] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> el RKakas
+[01:31:10] [Server thread/INFO]: Xautral issued server command: /tp RKa
+[01:31:10] [Server thread/INFO]: [Xautral: Teleported Xautral to RKa]
+[01:31:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:31:15] [Server thread/INFO]: RKa was kicked due to keepalive timeout!
+[01:31:15] [Server thread/INFO]: RKa lost connection: Timed out
+[01:31:15] [Server thread/INFO]: RKa left the game
+[01:31:17] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> RKa mi mod facorito
+[01:31:17] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> pendejo
+[01:31:18] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> a
+[01:31:28] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> zTeiszch si vi como te giveo cosas ese pendejo
+[01:31:32] [User Authenticator #11/INFO]: UUID of player RKa is d5fd6206-42d1-3efa-8478-e777cc14279e
+[01:31:32] [Server thread/INFO]: Vakenuu lost connection: Disconnected
+[01:31:32] [Server thread/INFO]: [Dominion Titan] Vakenuu left the game
+[01:31:33] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> q dices
+[01:31:36] [Server thread/INFO]: RKa joined the game
+[01:31:36] [Server thread/INFO]: RKa[/127.217.59.124:47635] logged in with entity id 19165 at ([world]184.21518791636814, 36.9375, 662.524853949017)
+[01:31:37] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> PORFAVOR VELOCIDAD NECESITO ESTO
+[01:31:38] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> solo me arreglo los aldeanos
+[01:31:39] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> :v
+[01:31:42] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> MI MADRE ESTÁ UN POCO SIN HOGAR
+[01:31:58] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> xau?
+[01:32:08] [Async Chat Thread - #37/INFO]: [Not Secure] <RKa> asd
+[01:32:08] [Server thread/INFO]: RKa was kicked due to keepalive timeout!
+[01:32:08] [Server thread/INFO]: RKa lost connection: Timed out
+[01:32:08] [Server thread/INFO]: RKa left the game
+[01:32:11] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> pq estas aqui?
+[01:32:18] [User Authenticator #11/INFO]: UUID of player RKa is d5fd6206-42d1-3efa-8478-e777cc14279e
+[01:32:22] [Server thread/INFO]: RKa joined the game
+[01:32:22] [Server thread/INFO]: RKa[/127.217.59.124:46537] logged in with entity id 19263 at ([world]184.21518791636814, 36.9375, 662.524853949017)
+[01:32:28] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> PORFAVOR VELOCIDAD NECESITO ESTO
+[01:32:29] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> MI MADRE ESTÁ UN POCO SIN HOGAR
+[01:32:32] [Server thread/INFO]: Xautral issued server command: /tp RKa
+[01:32:32] [Server thread/INFO]: [Xautral: Teleported Xautral to RKa]
+[01:32:38] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> q
+[01:32:43] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> no mames...
+[01:32:44] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> RKa
+[01:32:46] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> ve a este pendejo
+[01:32:48] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> no ha visto el meme
+[01:32:54] [Server thread/INFO]: RKa was kicked due to keepalive timeout!
+[01:32:54] [Server thread/INFO]: RKa lost connection: Timed out
+[01:32:54] [Server thread/INFO]: RKa left the game
+[01:32:55] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> y no
+[01:32:56] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:32:59] [User Authenticator #11/INFO]: UUID of player RKa is d5fd6206-42d1-3efa-8478-e777cc14279e
+[01:33:02] [Server thread/INFO]: RKa joined the game
+[01:33:02] [Server thread/INFO]: RKa[/127.217.59.124:57857] logged in with entity id 19346 at ([world]184.21518791636814, 36.9375, 662.524853949017)
+[01:33:07] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeizch> si si sii"}
+[01:33:07] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> duerman chavales
+[01:33:11] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:33:14] [Server thread/INFO]: Xautral issued server command: /tellraw @a {"text":"<zTeiszch> si si sii"}
+[01:33:15] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> duerman chavales
+[01:33:16] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> duerman chavales
+[01:33:17] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:33:18] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> duerman chavales
+[01:33:20] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:33:21] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:33:22] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:33:22] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> Que va a pasar con mi cuenta?
+[01:33:28] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> si si siiii
+[01:33:33] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> RKa
+[01:33:35] [Server thread/INFO]: RKa was kicked due to keepalive timeout!
+[01:33:35] [Server thread/INFO]: RKa lost connection: Timed out
+[01:33:35] [Server thread/INFO]: RKa left the game
+[01:33:36] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> duerma pls
+[01:33:36] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> a
+[01:33:39] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> zTeiszch
+[01:33:41] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> q
+[01:33:43] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> hola
+[01:33:45] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> hola
+[01:33:47] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> que haces
+[01:33:48] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> nada
+[01:34:04] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> y porq tanto?
+[01:34:05] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> a no se
+[01:34:06] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> aburrido
+[01:34:10] [Async Chat Thread - #37/INFO]: [Not Secure] <zTeiszch> bro respeta..
+[01:34:31] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> que va a pasra con mi cuenta?
+[01:34:33] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> si si siii
+[01:38:57] [Server thread/INFO]: Xautral lost connection: Timed out
+[01:38:57] [Server thread/INFO]: Xautral left the game
+[01:39:35] [User Authenticator #12/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:39:39] [Server thread/INFO]: Xautral joined the game
+[01:39:39] [Server thread/INFO]: Xautral[/127.48.6.202:59151] logged in with entity id 20621 at ([world]185.47714548311492, 37.22598450458412, 663.0841800063525)
+[01:41:03] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:15] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:15] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:16] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:16] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:17] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:17] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:18] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:18] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:19] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:19] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau
+[01:41:20] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bases raideables todavia?
+[01:41:26] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> como mamas pito
+[01:41:28] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que si
+[01:41:32] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[01:41:32] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[01:41:33] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:41:35] [Server thread/INFO]: [@: Showing new title for 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to 2 players]
+[01:41:35] [Server thread/INFO]: [@: Played sound minecraft:entity.zombie.converted_to_drowned to 2 players]
+[01:41:35] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> puedo matar aldeanos?
+[01:41:37] [Server thread/INFO]: [@: Showing new title for 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to 2 players]
+[01:41:37] [Server thread/INFO]: [@: Played sound minecraft:entity.zombie.converted_to_drowned to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Showing new title for 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to 2 players]
+[01:41:38] [Server thread/INFO]: [@: Played sound minecraft:entity.zombie.converted_to_drowned to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Showing new title for 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to 2 players]
+[01:41:40] [Server thread/INFO]: [@: Played sound minecraft:entity.zombie.converted_to_drowned to 2 players]
+[01:41:43] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> no te queda claro?
+[01:41:45] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> em
+[01:41:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> pedazo de aminal
+[01:41:47] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:41:47] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> si un mapa me dijo
+[01:41:48] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:41:49] [Server thread/INFO]: [@: Showing new title for 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.growl to 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to 2 players]
+[01:41:49] [Server thread/INFO]: [@: Played sound minecraft:entity.zombie.converted_to_drowned to 2 players]
+[01:41:50] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:41:51] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch
+[01:41:51] [Server thread/INFO]: [Xautral: Teleported Xautral to [Realm of Dxmonic Players] zTeiszch]
+[01:41:51] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> donde estaba la base
+[01:41:54] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> se puede o no?
+[01:42:05] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> almrd
+[01:42:10] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:10] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:42:11] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:11] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:42:11] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:11] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch was slain by Villager
+[01:42:11] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:42:12] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:12] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:12] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch was slain by Villager
+[01:42:12] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:42:13] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:42:14] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro
+[01:42:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que
+[01:42:18] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> nmms
+[01:42:19] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro
+[01:42:21] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame po
+[01:42:22] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zt
+[01:42:23] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:42:23] [Server thread/INFO]: [Xautral: Teleported 43 entities to [Realm of Dxmonic Players] zTeiszch]
+[01:42:24] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> hjaja
+[01:42:26] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que estúpido
+[01:42:27] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:33] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:34] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame po
+[01:42:35] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:35] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:35] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:36] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame y njdas
+[01:42:37] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch Xautral
+[01:42:37] [Server thread/INFO]: [Xautral: Teleported [Realm of Dxmonic Players] zTeiszch to Xautral]
+[01:42:42] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> te mato un aldeano que verga
+[01:42:46] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ujum
+[01:42:53] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro dame el totem
+[01:43:42] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> na bro
+[01:43:44] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:43:44] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:43:44] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:43:44] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:43:44] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch was slain by Leatherworker
+[01:43:44] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:43:44] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> pq los aldeanos me pegan
+[01:43:46] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> na brio
+[01:43:48] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> deja po
+[01:43:52] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> como que deja
+[01:43:56] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> les pusieron armor con espinas
+[01:43:58] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> dejame raidea
+[01:43:59] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> dejame raidear
+[01:43:59] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> a
+[01:44:00] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Xautral
+[01:44:00] [Server thread/INFO]: [Xautral: Teleported 35 entities to Xautral]
+[01:44:01] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ;vv
+[01:44:01] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> men
+[01:44:02] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> XDD
+[01:44:04] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> tepeame po
+[01:44:07] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> no habia entendido
+[01:44:08] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ;cvv
+[01:44:08] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:44:08] [Server thread/INFO]: [Xautral: Teleported 32 entities to [Realm of Dxmonic Players] zTeiszch]
+[01:44:10] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch Xautral
+[01:44:10] [Server thread/INFO]: [Xautral: Teleported [Realm of Dxmonic Players] zTeiszch to Xautral]
+[01:44:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> aunque los intentes matar solo se te hará mierda tu armor
+[01:44:24] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> watafa
+[01:44:26] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> e vrdd
+[01:44:47] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> los vo a enterrar
+[01:44:52] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> we todos
+[01:44:53] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> :vv
+[01:44:58] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:44:58] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:45:02] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ese fuiste vo
+[01:45:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> ya wey
+[01:45:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> deja la droga
+[01:45:13] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> dame mi totem
+[01:45:15] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> :v
+[01:45:19] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> no chinga porque
+[01:45:30] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:45:30] [Server thread/INFO]: [Xautral: Teleported Leatherworker to Xautral]
+[01:45:39] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:45:39] [Server thread/INFO]: [Xautral: Teleported Leatherworker to Xautral]
+[01:45:41] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:45:41] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:45:42] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> nmms xau
+[01:45:43] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:45:43] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:45:45] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> quie
+[01:45:49] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> no los saques po
+[01:45:52] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> no los saque wey
+[01:45:56] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> se ve como brincan
+[01:46:03] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro respeta..
+[01:46:05] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro dejame po
+[01:46:11] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> entierramela mas profunda
+[01:46:13] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> haber si no se sale
+[01:46:24] [Server thread/INFO]: Xautral issued server command: /tp z
+[01:46:25] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch
+[01:46:25] [Server thread/INFO]: [Xautral: Teleported Xautral to [Realm of Dxmonic Players] zTeiszch]
+[01:46:34] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> troleada épica
+[01:46:40] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> BRIO
+[01:46:43] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:46:43] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:46:51] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:46:51] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch was slain by Villager
+[01:46:51] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:46:54] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> xd
+[01:46:55] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> bro respeta
+[01:46:58] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:46:58] [Server thread/INFO]: [Xautral: Teleported 43 entities to [Realm of Dxmonic Players] zTeiszch]
+[01:46:59] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> dejame raidear
+[01:47:01] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch Xautral
+[01:47:01] [Server thread/INFO]: [Xautral: Teleported [Realm of Dxmonic Players] zTeiszch to Xautral]
+[01:47:02] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:47:03] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:47:06] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> como mamas PENE
+[01:47:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> te dejo raidear pero no la frieges
+[01:47:20] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> a cada rato algo que te sale mal me culpas
+[01:47:23] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> a que te refieres
+[01:47:29] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ok
+[01:47:34] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> te mata un aldeano "ya wey dejame raidear"
+[01:47:38] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> XD
+[01:47:43] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> pero me estabas pegando po
+[01:47:56] [Server thread/INFO]: Villager Villager['Leatherworker'/20768, uuid='206fe33c-4e0a-4d89-a939-dc6b6f0510e4', l='ServerLevel[world]', x=-406.33, y=70.00, z=263.55, cpos=[-26, 16], tl=9438, v=true] died, message: 'Leatherworker was slain by [Realm of Dxmonic Players] zTeiszch'
+[01:47:59] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> almrd lo mate
+[01:48:04] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> si pendejo me meti en la cuenta del aldeano y te solte un madrazo
+[01:48:12] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:48:12] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:48:22] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> y si
+[01:48:27] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:48:27] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:48:30] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ven
+[01:48:31] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ve
+[01:48:32] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:48:33] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> eso fuiste vo
+[01:48:42] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:48:42] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:48:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> ?
+[01:48:50] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> che raro
+[01:48:50] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:48:52] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> aveces me pegan wn
+[01:48:55] [Server thread/INFO]: Xautral issued server command: /damage zTeiszch 20 minecraft:player_attack by @n[type=minecraft:villager]
+[01:48:56] [Server thread/INFO]: [Xautral: Applied 20.0 damage to [Realm of Dxmonic Players] zTeiszch]
+[01:49:08] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que ped
+[01:49:20] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:49:20] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:49:24] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:49:24] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:49:36] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:49:36] [Server thread/INFO]: [Xautral: Teleported Shepherd to Xautral]
+[01:49:40] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau.
+[01:49:42] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que
+[01:49:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que carajo es un shepher
+[01:49:47] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que carajo es un shepherd
+[01:49:52] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> k=
+[01:49:57] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:49:57] [Server thread/INFO]: [Xautral: Teleported Shepherd to Xautral]
+[01:50:10] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:50:10] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:50:16] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> xau..
+[01:50:42] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> este we cuantos aldeanos tiene
+[01:50:42] [Server thread/INFO]: Xautral lost connection: Timed out
+[01:50:42] [Server thread/INFO]: Xautral left the game
+[01:50:46] [User Authenticator #13/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:50:46] [Server thread/INFO]: Xautral joined the game
+[01:50:46] [Server thread/INFO]: Xautral[/127.48.6.202:42531] logged in with entity id 23543 at ([world]-373.1132510572424, 67.81061369491219, 249.9410916521763)
+[01:51:00] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:51:00] [Server thread/INFO]: [Xautral: Teleported 35 entities to [Realm of Dxmonic Players] zTeiszch]
+[01:51:02] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:villager] Xautral
+[01:51:02] [Server thread/INFO]: [Xautral: Teleported Villager to Xautral]
+[01:51:18] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:villager] Xautral
+[01:51:18] [Server thread/INFO]: [Xautral: Teleported 14 entities to Xautral]
+[01:51:33] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> AAAAAAAAAAAA
+[01:51:37] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> pero a mi si no me los das wn
+[01:51:41] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> dar que
+[01:51:44] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> aldeanos
+[01:51:46] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:villager] Xautral
+[01:51:46] [Server thread/INFO]: [Xautral: Teleported 14 entities to Xautral]
+[01:51:47] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> man dejame de trolear
+[01:51:54] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:villager] minecraft:instant_health infinite 25 true
+[01:51:54] [Server thread/INFO]: [Xautral: Applied effect Instant Health to 14 targets]
+[01:51:58] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> y quitales la armor de espinas
+[01:51:59] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> que dijimos de andar diciendo pendejadas?
+[01:52:04] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> porque lo haría men
+[01:52:06] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> yo no se las puse
+[01:52:08] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> pa joderme
+[01:52:09] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> fue el dueño
+[01:52:13] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> qsi
+[01:52:28] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> qsi que estúpido
+[01:52:55] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> no mames que perro miedo ver la vista del enderman
+[01:53:04] [Server thread/INFO]: Xautral issued server command: /rotate @n[type=minecraft:enderman] facing entity zTeiszch eyes
+[01:53:04] [Server thread/INFO]: [Xautral: Rotated Enderman]
+[01:53:10] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:enderman] @p
+[01:53:10] [Server thread/INFO]: [Xautral: Teleported Enderman to Xautral]
+[01:53:18] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:enderman] @p[distance=1..]
+[01:53:18] [Server thread/INFO]: [Xautral: Teleported Enderman to [Realm of Dxmonic Players] zTeiszch]
+[01:53:21] [Server thread/INFO]: Xautral issued server command: /rotate @n[type=minecraft:enderman] facing entity zTeiszch eyes
+[01:53:21] [Server thread/INFO]: [Xautral: Rotated Enderman]
+[01:53:31] [Server thread/INFO]: Xautral issued server command: /effect give @n[type=minecraft:enderman] minecraft:strength infinite 3 true
+[01:53:31] [Server thread/INFO]: [Xautral: Applied effect Strength to Enderman]
+[01:53:35] [Server thread/INFO]: Xautral issued server command: /effect give @n[type=minecraft:enderman] minecraft:instant_health infinite 3 true
+[01:53:35] [Server thread/INFO]: [Xautral: Applied effect Instant Health to Enderman]
+[01:53:36] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> dame comida we
+[01:53:38] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> no wey
+[01:53:39] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> no me mandas
+[01:53:42] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> pls
+[01:53:44] [Server thread/INFO]: Xautral issued server command: /rotate @n[type=minecraft:enderman] facing entity zTeiszch eyes
+[01:53:44] [Server thread/INFO]: [Xautral: Rotated Enderman]
+[01:53:46] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:54:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> ja
+[01:54:04] [Server thread/INFO]: Xautral issued server command: /effect give @n[type=minecraft:enderman] minecraft:strength infinite 35 true
+[01:54:04] [Server thread/INFO]: [Xautral: Applied effect Strength to Enderman]
+[01:54:05] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:54:06] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch was slain by Enderman
+[01:54:09] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> q mrd
+[01:54:10] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> xd?
+[01:54:13] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> bro
+[01:54:14] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] zTeiszch
+[01:54:14] [Server thread/INFO]: [Xautral: Teleported 47 entities to [Realm of Dxmonic Players] zTeiszch]
+[01:54:19] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> tenia la mitad de la vida nmms
+[01:54:19] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> que vro
+[01:54:29] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> osea tenias 5 de vida?
+[01:54:37] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> 5 coras
+[01:54:58] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> GUE
+[01:55:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> pero aun
+[01:55:00] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> dame comida pls
+[01:55:02] [Server thread/INFO]: Xautral issued server command: /tp zTeiszch
+[01:55:02] [Server thread/INFO]: [Xautral: Teleported Xautral to [Realm of Dxmonic Players] zTeiszch]
+[01:55:04] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> no wey
+[01:55:04] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> ?
+[01:55:08] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> te acabas de morir
+[01:55:15] [Async Chat Thread - #39/INFO]: [Not Secure] <zTeiszch> y?
+[01:55:19] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> griega
+[01:55:22] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> tienes cultivos
+[01:55:26] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> nememes
+[01:56:04] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> aldeanos chikitos
+[01:56:08] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> crezcan awebados
+[01:56:37] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> afk
+[01:56:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> iré a ver inquietas en el agua
+[01:56:50] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> ok
+[01:56:53] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> invita
+[01:57:07] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> nmms
+[01:57:10] [Async Chat Thread - #38/INFO]: [Not Secure] <zTeiszch> perdi mis niveles wn
+[02:01:22] [User Authenticator #14/INFO]: UUID of player Vakenuu is e8cf1ddc-6cbc-3a1f-acb1-4f0b6eb8b11a
+[02:01:24] [Server thread/INFO]: [Dominion Titan] Vakenuu joined the game
+[02:01:24] [Server thread/INFO]: Vakenuu[/127.235.177.208:41097] logged in with entity id 24871 at ([world]674.9699314744902, 49.0, -2451.9793977915183)
+[02:01:49] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> quien me da obsidiana
+[02:01:53] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> bro
+[02:01:55] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> busca una base
+[02:01:56] [Async Chat Thread - #40/INFO]: [Not Secure] <zTeiszch> :v
+[02:02:01] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> y le robas el portal
+[02:02:10] [Server thread/INFO]: Xautral issued server command: /xp add @a 20 levels
+[02:02:10] [Server thread/INFO]: [Xautral: Gave 20 experience levels to 3 players]
+[02:02:10] [Server thread/INFO]: Xautral issued server command: /xp add @a 20 levels
+[02:02:10] [Server thread/INFO]: [Xautral: Gave 20 experience levels to 3 players]
+[02:02:10] [Server thread/INFO]: Xautral issued server command: /xp add @a 20 levels
+[02:02:10] [Server thread/INFO]: [Xautral: Gave 20 experience levels to 3 players]
+[02:02:12] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> bro
+[02:02:15] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> eso Xautral
+[02:02:16] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> grx
+[02:02:16] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> dime
+[02:02:17] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> :v
+[02:02:19] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> hacemos team ?
+[02:02:24] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> no soy lider
+[02:02:25] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> pero ok
+[02:02:34] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> quienes lider ?
+[02:02:40] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> Ghost
+[02:02:44] [Async Chat Thread - #41/INFO]: [Not Secure] <Xautral> si quieres te uno a el
+[02:02:54] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> y no te quieres unir a mi team ?+
+[02:02:57] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> aunque soy coleader
+[02:02:58] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> nah
+[02:03:03] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> a mi clan
+[02:03:07] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> ok
+[02:03:26] [Async Chat Thread - #41/INFO]: [Not Secure] <Xautral> afk otra vez
+[02:03:31] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> xAU
+[02:03:39] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> xau
+[02:03:52] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[02:03:54] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> duerme pls
+[02:04:06] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[02:04:07] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> nah
+[02:04:08] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> ok
+[02:04:09] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> duerme pls
+[02:04:19] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> grx
+[02:05:00] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> bro si te quieres unir a mi team tengo aldeanos
+[02:05:06] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> yo tmbn
+[02:05:07] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> ;v
+[02:05:29] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> tengo 5
+[02:05:34] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> y reproduciendose
+[02:05:55] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> yo tambien tengo 5 reproduciendodse jaja
+[02:06:33] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> bro
+[02:06:36] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> vamos a una aldea?
+[02:06:48] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> ok
+[02:06:52] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> espera
+[02:06:55] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> en q coords nos vemos?
+[02:07:02] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> que guardo las cosas
+[02:07:59] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> ya?
+[02:08:29] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> espra que voy hacer mi caamaw
+[02:08:43] [Async Chat Thread - #41/INFO]: [Not Secure] <Vakenuu> asi cuando termino de jugar me duermo jaj
+[02:08:49] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> XD om
+[02:08:51] [Async Chat Thread - #41/INFO]: [Not Secure] <zTeiszch> XD ok
+[02:12:06] [Async Chat Thread - #42/INFO]: [Not Secure] <zTeiszch> en q coords nos vemos we
+[02:13:07] [Async Chat Thread - #45/INFO]: [Not Secure] <zTeiszch> en q coords nos vemos we
+[02:13:07] [Async Chat Thread - #44/INFO]: [Not Secure] <zTeiszch> en q coords nos vemos we
+[02:13:08] [Async Chat Thread - #45/INFO]: [Not Secure] <zTeiszch> Vakenuu
+[02:15:05] [Server thread/INFO]: zTeiszch lost connection: Disconnected
+[02:15:05] [Server thread/INFO]: [Realm of Dxmonic Players] zTeiszch left the game
+[02:17:10] [Async Chat Thread - #46/INFO]: [Not Secure] <Vakenuu> ya estoy
+[02:20:09] [Server thread/INFO]: [Not Secure] [Server] wey
+[02:20:11] [Server thread/INFO]: [Not Secure] [Server] wey
+[02:20:15] [Async Chat Thread - #48/INFO]: [Not Secure] <Vakenuu> qe
+[02:20:16] [Server thread/INFO]: [Not Secure] [Server] no estas hablando con zTeisch
+[02:20:20] [Server thread/INFO]: [Not Secure] [Server] estas hablando con shanay
+[02:20:22] [Server thread/INFO]: There are 2 of a max of 20 players online: Xautral, [Dominion Titan] Vakenuu
+[02:20:29] [Server thread/INFO]: [Not Secure] [Server] solo eso  bye
+[02:20:31] [Server thread/INFO]: [Not Secure] [Server] afk
+[02:20:36] [Async Chat Thread - #48/INFO]: [Not Secure] <Vakenuu> ok gracias
+[02:23:28] [Server thread/INFO]: Villager Villager['Cleric'/24876, uuid='899f7ea2-b696-4724-ad64-436f29a9b7dc', l='ServerLevel[world]', x=621.19, y=99.00, z=-2441.61, cpos=[38, -153], tl=26474, v=true] died, message: 'Cleric was slain by Zombie'
+[02:31:24] [Server thread/INFO]: [Dominion Titan] Vakenuu was doomed to fall
